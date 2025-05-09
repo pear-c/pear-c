@@ -46,7 +46,5 @@
 
 ### 📝 Latest Blog Posts
 
-<!-- RSS 피드 연동하거나 수동으로 작성 -->
-- [[Spring]IoC 간단 정리](https://pear-c.tistory.com/122)
-- [[DB]Connection Pool 간단 정리 (DBCP2 기반)](https://pear-c.tistory.com/121)
-- [[DB]JDBC 간단 정리 : 설정부터 사용까지](https://pear-c.tistory.com/120)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
