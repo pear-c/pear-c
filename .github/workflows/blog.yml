@@ -1,0 +1,17 @@
+name: 🔄 Update README with blog posts
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 매일 00:00 UTC에 실행
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://pear-c.tistory.com/rss"
+          max_post_count: 3
