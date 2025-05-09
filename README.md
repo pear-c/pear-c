@@ -1,4 +1,3 @@
-<!-- 헤더 이미지 또는 인사말 -->
 <h3 align="center">안녕하세요! 백엔드 개발자 배성환입니다 👋</h3>
 
 <p align="center">
@@ -46,5 +45,4 @@
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<ul><li><a href='https://pear-c.tistory.com/122' target='_blank'>[Spring] IoC 간단정리</a></li><li><a href='https://pear-c.tistory.com/121' target='_blank'>[DB] Connection Pool 간단 정리 (DBCP2 기반)</a></li><li><a href='https://pear-c.tistory.com/120' target='_blank'>[DB] JDBC 간단 정리: 설정부터 사용까지</a></li></ul>
