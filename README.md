@@ -10,9 +10,6 @@
   <a href="https://www.acmicpc.net/user/zxcv9676">
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zxcv9676" />
   </a>
-  <a href="https://obsidian.md/">
-    <img src="https://img.shields.io/badge/-Obsidian-483699?style=flat&logoColor=white" />
-  </a>
 </p>
 
 ---
