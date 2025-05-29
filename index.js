@@ -14,6 +14,9 @@ let text =
     '  <a href="https://www.acmicpc.net/user/zxcv9676">\n' +
     '    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zxcv9676" />\n' +
     '  </a>\n' +
+    '  <a href="https://pear-c.pages.dev/">\n' +
+    '    <img src="https://img.shields.io/badge/Obsidian-7e57c2?style=flat&logo=obsidian&logoColor=white" />\n' +
+    '  <\a>\n' +
     '</p>\n' +
     '\n' +
     '---\n' +
