@@ -7,12 +7,12 @@
   <a href="https://pear-c.tistory.com/">
     <img src="https://img.shields.io/badge/Blog-Tistory-orange?style=flat-square" />
   </a>
-  <a href="https://www.acmicpc.net/user/zxcv9676">
-    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zxcv9676" />
-  </a>
   <a href="https://pear-c.pages.dev/">
     <img src="https://img.shields.io/badge/Obsidian-7e57c2?style=flat&logo=obsidian&logoColor=white" />
   <a>
+  <a href="https://www.acmicpc.net/user/zxcv9676">
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zxcv9676" />
+  </a>
 </p>
 
 ---
