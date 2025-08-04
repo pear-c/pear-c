@@ -48,4 +48,4 @@
 
 ### 📝 Latest Blog Posts
 
-<ul><li><a href='https://pear-c.tistory.com/124' target='_blank'>[Spring]Spring MVC 각 메서드 및 어노테이션 간단 정리</a></li><li><a href='https://pear-c.tistory.com/122' target='_blank'>[Spring] IoC 간단정리</a></li><li><a href='https://pear-c.tistory.com/121' target='_blank'>[DB] Connection Pool 간단 정리 (DBCP2 기반)</a></li></ul>
+<ul><li><a href='https://pear-c.tistory.com/125' target='_blank'>[회고] Book1lluwa 프로젝트 회고</a></li><li><a href='https://pear-c.tistory.com/124' target='_blank'>[Spring]Spring MVC 각 메서드 및 어노테이션 간단 정리</a></li><li><a href='https://pear-c.tistory.com/122' target='_blank'>[Spring] IoC 간단정리</a></li></ul>
