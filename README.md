@@ -38,17 +38,4 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 </p>
-
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pear-c&show_icons=true&theme=default" />
-</p>
-
----
-
-### 📝 Latest Blog Posts
-
-<ul><li><a href='https://pear-c.tistory.com/125' target='_blank'>[회고] Book1lluwa 프로젝트 회고</a></li><li><a href='https://pear-c.tistory.com/124' target='_blank'>[Spring]Spring MVC 각 메서드 및 어노테이션 간단 정리</a></li><li><a href='https://pear-c.tistory.com/122' target='_blank'>[Spring] IoC 간단정리</a></li></ul>
