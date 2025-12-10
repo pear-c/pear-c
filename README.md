@@ -1,34 +1,12 @@
-<h3 align="center">안녕하세요! 백엔드 개발자 배성환입니다 👋</h3>
-
-<p align="center">
-  <a href="mailto:bsh00611@gmail.com">
-    <img src="https://img.shields.io/badge/-bsh00611@gmail.com-red?style=flat&logo=gmail&logoColor=white&label=" />
-  </a>
-  <a href="https://pear-c.tistory.com/">
-    <img src="https://img.shields.io/badge/Blog-Tistory-orange?style=flat-square" />
-  </a>
-  <a href="https://pear-c.pages.dev/">
-    <img src="https://img.shields.io/badge/Obsidian-7e57c2?style=flat&logo=obsidian&logoColor=white" />
-  <a>
-  <a href="https://www.acmicpc.net/user/zxcv9676">
-    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zxcv9676" />
-  </a>
-</p>
-
----
-
-### 🧑‍💻 About Me
-
-- 🌱 **Java/Spring 기반 백엔드 개발자**로 성장 중입니다.  
-- 💻 하나의 경험을 다양한 경험에 적용시켜보며 꾸준히 성장하고 있습니다.
-- 🔍 관심 기술: **Java, Spring Framework, JPA, MSA, AWS, CI/CD**  
-- 📘 현재는 CS 지식과 네트워크, 객체지향설계 등 **기본에 충실**한 공부를 하고자 노력하고 있습니다.
-- 🚨 새로운 기술과 도전을 과제로 전환해, 해결하는 과정에서 **성장의 재미**를 알아가고 있습니다.
-
----
+### ✈ Career
+- Mono-Communications (Nov. 2025 - ing)
+  - Backend Developer
+- NHN Academy (Feb. 2025 - Jul. 2025)
+  - Backend Course
+- Dong-A University (Mar. 2019 - Feb. 2025)
+  - Computer Engineering
 
 ### 🛠 Tech
-
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
@@ -38,3 +16,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 </p>
+
+### 🎨 SNS
+<a href="https://pear-c.tistory.com/">
+    <img src="https://img.shields.io/badge/Blog-Tistory-orange?style=flat-square" />
+</a>
