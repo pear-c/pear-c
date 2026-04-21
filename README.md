@@ -77,7 +77,7 @@ Java/Spring 기반 백엔드 개발자입니다.
 ### Book1lluwa — MSA 기반 온라인 서점
 팀장 (8인) | 2025.06 ~ 2025.07
 
-- Saga 패턴 + RabbitMQ 비동기 전환으로 처리량 66.7% 향상 (2.7→4.5 TPS), 타임아웃 0% 달성
+- Saga 패턴 + RabbitMQ 비동기 전환으로 처리량 66.7% 향상, 타임아웃 0% 달성
 - ELK 모니터링 + Blue-Green 무중단 배포로 다운타임 0초, 배포 시간 80% 단축
 - Spring Boot, Spring Cloud, MySQL, Redis, RabbitMQ, Elasticsearch, GitHub Actions
 - [GitHub](https://github.com/pear-c/1lluwa)
